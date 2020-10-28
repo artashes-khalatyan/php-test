@@ -1,0 +1,14 @@
+{
+    "name": "sharedcount/sharedcount-sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ft-rockstar",
+            "email": "rockstar@fluxtechs.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"sharedcount\\": "lib/"}
+    },
+    "require": {}
+}
