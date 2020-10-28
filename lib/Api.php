@@ -1,5 +1,5 @@
 <?php
-namespace sharedcount;
+namespace sharedcountTest;
 
 use CurlHelper;
 
