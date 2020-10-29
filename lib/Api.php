@@ -1,5 +1,5 @@
 <?php
-namespace sharedcount\Api;
+namespace sharedcount\Sdk;
 
 use CurlHelper;
 

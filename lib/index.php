@@ -1,6 +1,6 @@
 <?php
 namespace sharedcount\Sdk;
-class Index
+class LibIndex
 {
     public function greet($greet = "Hello World")
     {
