@@ -1,2 +1,2 @@
 <?php
-use sharedcount\SharedcountApi;
+use sharedcountTest\SharedcountApi;

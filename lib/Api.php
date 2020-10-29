@@ -1,7 +1,6 @@
 <?php
-namespace sharedcountTest;
+namespace sharedcount\Api;
 
-require_once('CurlHelper.php');
 use CurlHelper;
 
 class SharedcountApi

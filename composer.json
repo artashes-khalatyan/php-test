@@ -8,7 +8,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"sharedcountTest\\": "lib/"}
+        "psr-4": {"sharedcount\\Api\\": "lib/"}
     },
     "require": {}
 }
