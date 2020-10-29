@@ -1,5 +1,5 @@
 {
-    "name": "sharedcount-test/sharedcount-sdk-test",
+    "name": "sharedcount/sharedcount-sdk-test",
     "license": "MIT",
     "authors": [
         {
@@ -8,7 +8,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"sharedcount\\Sdk\\": "lib/"}
+        "psr-4": {"sharedcount\\SharedcountSdkTest\\": "lib/"}
     },
     "require": {}
 }

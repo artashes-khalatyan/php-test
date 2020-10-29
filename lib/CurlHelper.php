@@ -1,5 +1,5 @@
 <?php
-namespace sharedcount\Sdk;
+namespace sharedcount\SharedcountSdkTest;
 class CurlHelper
 {
 

@@ -1,7 +1,7 @@
 <?php
-namespace sharedcount\Sdk;
+namespace sharedcount\SharedcountSdkTest;
 
-use CurlHelper;
+use sharedcount\SharedcountSdkTest\CurlHelper;
 
 class SharedcountApi
 {
